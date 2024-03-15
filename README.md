@@ -32,7 +32,7 @@ app.get('/', (req, res) => {
     res.send(`<h1>Hello World</h1>`);
 });
 ```
-This line of code is responsible for routing user access to the corresponding content. When the user visits the root directory of the webpage, the '<h1>Hello World</h1>' is returned to the user, and the browser will render this HTML code to the corresponding style.
+This line of code is responsible for routing user access to the corresponding content. When the user visits the root directory of the webpage, the "<h1>Hello World</h1>" is returned to the user, and the browser will render this HTML code to the corresponding style.
 
 ### Run the project
 Use the following command to run this project
